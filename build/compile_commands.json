@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/LHX/Documents/Code/Test/build",
+  "command": "D:\\Develop\\llvm-mingw-20241217-ucrt-x86_64\\bin\\clang++.exe -DBROTLI_SHARED_COMPILATION -DCPPHTTPLIB_BROTLI_SUPPORT @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\LHX\\Documents\\Code\\Test\\main.cpp",
+  "file": "C:/Users/LHX/Documents/Code/Test/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]

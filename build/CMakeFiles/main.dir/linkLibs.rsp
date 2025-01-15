@@ -1,0 +1,1 @@
+ -lpthread -lws2_32 -lcrypt32 "vcpkg_installed/x64-windows/debug/lib/brotlienc.lib" "vcpkg_installed/x64-windows/debug/lib/brotlidec.lib" "vcpkg_installed/x64-windows/debug/lib/brotlicommon.lib" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
